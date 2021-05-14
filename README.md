@@ -7,7 +7,6 @@ The aim of project is to build aLSTM  model to predict trend of Google stock pri
   * [Building_LSTM](#Building_LSTM)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
-  * [Business_Recommendation](#Business_Recommendation)
   * [Credit](#Credit)
   
 
@@ -38,10 +37,6 @@ The aim of project is to build aLSTM  model to predict trend of Google stock pri
 
 
 ## Result
-1. The accuracy of model  is 96.82%. The accuaracy of model should be next to 100% in medical domain problems .
-
-
-## Business_Recommendation
 * LSTM  is the  prefer  for predict trend of any comapny stock price.
 * Analyzed the trend of predcited and actual stock price prediction.
  <img src="/visualize%20comparison.PNG" width="300">
