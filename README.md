@@ -1,5 +1,5 @@
 # Google-stock-price-trend-prediction-using-LSTM
-The aim of project is to build aLSTM  model to predict trend of Google stock price.
+The project aims to build an LSTM model to predict the trend of Google stock price.
 ## Table of Content
  
   * [Problem_Definition](#Problem_Definition)
@@ -12,18 +12,18 @@ The aim of project is to build aLSTM  model to predict trend of Google stock pri
 
  
  ## Problem_Definition
- We have Google stock price dataset from 2012 to 2016. We will try to predcit trend of stock price for Jan 2017 stoick price 
+ We have a Google stock price dataset from 2012 to 2016. We will try to predict the trend of the stock price for Jan 2017 stock price 
  
 
 
 ## Data_Preprocessing
 1. Feature Scaling
-2. Createda data structure with 60 timesteps and 1 output
+2. Created data structure with 60 timesteps and 1 output
 3. Reshape the training dataset
 
 
 ## Building_LSTM
-### Steps to Build LSTM  Neural Netwrok
+### Steps to Build LSTM  Neural Network
 1. Import required libraries
 2. Initialize RNN 
 3. Adding 4 LSTM layer and some Dropout regularisation
@@ -32,14 +32,14 @@ The aim of project is to build aLSTM  model to predict trend of Google stock pri
 ## Model_Building
 ### Steps to model Building
 1. Compile the RNN model
-2. Training the LSTM on Training set
+2. Training the LSTM on the Training set
 
 
 
 ## Result
-* LSTM  is the  prefer  for predict trend of any comapny stock price.
-* Analyzed the trend of predcited and actual stock price prediction.
+* LSTM  is preferred for predict the trend of any company stock price.
+* Analyzed the trend of predicted and actual stock price prediction.
  <img src="/visualize%20comparison.PNG" width="300">
 
 ## Credit
-This project has beed done as a udemy course project on LSTM  deep learning technique.
+This project has been done as a udemy course project on LSTM  deep learning technique.
